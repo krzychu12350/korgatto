@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Allow: /korgatto.com
+
+Sitemap: https://www.korgatto.com/sitemap.xml
