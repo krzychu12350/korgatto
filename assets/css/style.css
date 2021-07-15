@@ -1306,4 +1306,8 @@ div.portfolio-item:nth-child(1) > div:nth-child(1) > img:nth-child(1){
   font-size: 13px;
 }
 
+.fb_customer_chat_icon{
+    right: 0px !important;
+    bottom: 70px !important;
+}
 
