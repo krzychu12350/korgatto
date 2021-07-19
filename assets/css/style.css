@@ -1307,7 +1307,7 @@ div.portfolio-item:nth-child(1) > div:nth-child(1) > img:nth-child(1){
 }
 
 .fb_customer_chat_icon{
-    right: 0px !important;
+    right: -5px !important;
     bottom: 70px !important;
 }
 

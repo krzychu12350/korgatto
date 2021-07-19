@@ -7,7 +7,8 @@
   <title>Korgatto - zakład krawiecki </title>
   <meta content="Korgatto - zakład krawiecki, nowy punkt widzenia na wyroby z wikliny" name="description">
   <meta content="poduszki dla zwierząt, torby bawełniane, obszycia do koszy zakupowych, poduszki do mebli ogrodowych, obszycia z agrowłókniny,obszycia do koszy rowerowych" name="keywords">
- 
+  <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'"> 
+
   <link rel="canonical" href="https://korgatto.com/">
 
   <!-- Favicons -->
@@ -528,12 +529,14 @@ logged_out_greeting="Hi! How can we help you?">
           <h2 key="contactHead" class="lang">Kontakt z nami</h2>
         </div>
       </div>
-
-      <div class="map" data-aos="fade-up">
+  
+      <div class="map">
+        <!--
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.478489575423!2d22.262324888451843!3d50.43892849942251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473cd6b41c33491f%3A0x8873b185ada488e4!2s1000-lecia%2029%2C%2037-420%20Rudnik%20nad%20Sanem!5e0!3m2!1spl!2spl!4v1596206821311!5m2!1spl!2spl" frameborder="0" allowfullscreen></iframe>
-     </div>
+        -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2541.1195300254403!2d22.26050951588001!3d50.438874196079745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473cd6b41c33491f%3A0x8873b185ada488e4!2s1000-lecia%2029%2C%2037-420%20Rudnik%20nad%20Sanem!5e0!3m2!1spl!2spl!4v1626716431683!5m2!1spl!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div> 
            
-
       <div class="container mt-5" data-aos="fade-up">
 
         <div class="info-wrap">
@@ -629,7 +632,6 @@ logged_out_greeting="Hi! How can we help you?">
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/translation.js"></script>
-  <script src="assets/js/location-map.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDO06QHhh8hGy2m65DZmXPfaociI882s2I" async defer></script>
+ 
 </body>
 </html>
