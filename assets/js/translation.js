@@ -92,7 +92,7 @@ var arrLang = {
    'contactHead':'Contact Us',
    'location':'Location:',
    'openingTimeFooter':'Opening hours:',
-   'openingTimeDes':'Monday-Friday: 9AM - 7PM',
+   'openingTimeDes':'Monday-Friday: 9AM - 5PM',
    'addressEmail':'E-mail',
    'telNumber':'Telephone:',
    'addressDetail':'1000-lecia Street 29 37-420 Rudnik nad Sanem Poland',
