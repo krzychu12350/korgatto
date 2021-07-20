@@ -1,7 +1,7 @@
 jQuery(document).ready(function() {
 var arrLang = {
  'polish': {
-   'contactNumber':'+ 48 603 181 344',
+   'contactNumber':'+ 48 783 966 632',
    'openingTime': 'Pn - Sob: 9:00 - 17:00',
    'home': 'Home',
    'about': 'O nas',
@@ -53,8 +53,8 @@ var arrLang = {
 
  },
  'english': {
-   'contactNumber':'+48 603 181 344',
-   'openingTime': 'Mon - Fri: 9AM - 7PM',
+   'contactNumber':'+48 783 966 632',
+   'openingTime': 'Mon - Fri: 9AM - 5PM',
    'home': 'Home',
    'about': 'About',
    'why-us': 'Why us',
@@ -104,7 +104,7 @@ var arrLang = {
    'cookiesButtonDes':'I agree'
  },
  'deutsch': {
-   'contactNumber':'+48 603 181 344',
+   'contactNumber':'+48 783 966 632',
    'openingTime': 'Mo - Fr: 9:00 - 17:00',
    'home': 'Home',
    'about': 'Über uns',
