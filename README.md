@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
@@ -19,9 +18,23 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- HTML
+- CSS
+- PHP
+- JavaScript
+- Jquery
+- Bootstrap
+<br>
+
+Additional libraries and plugins:
+- Animate.css
+- AOS -Animate on Scroll
+- Isotope - layout
+- Jquery Sticky
+- Jquery Easing
+- Owl Carousel
+- Validate.js
+- Venobox
 
 ## Screenshots
 ![Example screenshot](./readme-images/1.jpg)
@@ -39,15 +52,15 @@ Project is _in progress_.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Optimizing the page loading time
+- SEO optimization
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Adding new photos of products
+- Adding a simple administration panel that allows to manage some elements on the website
+
 
 
 
