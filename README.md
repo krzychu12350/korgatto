@@ -1,6 +1,5 @@
 # Korgatto
 > Business card one page website for the tailoring company.
-> Live demo [_here_](https://www.korgatto.com/).
 
 ## Table of Contents
 * [General Info](#general-information)
